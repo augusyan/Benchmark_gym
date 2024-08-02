@@ -1,0 +1,12 @@
+weights
+*.egg-info
+__pycache__
+*.pyc
+# data dir
+data/
+# checkpoints dir
+checkpoints/
+# weights
+*.pt
+*.pth
+*.ckpt
